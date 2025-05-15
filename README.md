@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas Dhekane</h1>
-<h3 align="center">I am passionate about Cybersecurity and Machine Learning <3</h3>
+<h3 align="center">I am passionate about Software Devlopment and Machine Learning <3</h3>
 
 - 🔭 I completed [Guess That Pokemon](https://shreyasdhekane.github.io/guess-that-pokemon/)
 
