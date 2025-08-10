@@ -3,7 +3,7 @@
 
 - 🔭 I completed [Guess That Pokemon](https://shreyasdhekane.github.io/guess-that-pokemon/)
 
-- 🌱 I’m currently learning **Flutter , Cybersecurity Basics**
+- 🌱 I’m currently learning **Software Enginnering & AI**
 
 - 👯 I collaborate in making [SymptoGuide](https://github.com/shreyasdhekane/SymptoGuide)
 
