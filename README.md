@@ -7,7 +7,7 @@
 - 🔭 I recently built **[TrackAdmit](https://trackadmit.vercel.app)** 
   description: "Track deadlines, manage docs, and never miss an application update. Designed for students. Built by one.",
 - 🌱 Currently learning **Software Engineering & AI** 🤖  
-- ⚡ Fun fact: I love blending **design + code** (UI/UX + Full Stack = ✨)  
+- ⚡ Fun fact: I love blending **design + code** (UI/UX + Full Stack = Perfectly Crafted Solution)  
 
 ---
 
