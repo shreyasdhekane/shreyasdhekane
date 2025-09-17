@@ -5,9 +5,9 @@
 
 ### 🚀 About Me
 - 🔭 I recently built **[TrackAdmit](https://trackadmit.vercel.app)** 
-  description: "Track deadlines, manage docs, and never miss an application update. Designed for students. Built by one.",
+    -  description: "Track deadlines, manage docs, and never miss an application update. Designed for students. Built by one.",
 - 🌱 Currently learning **Software Engineering & AI** 🤖  
-- ⚡ Fun fact: I love blending **design + code** (UI/UX + Full Stack = Perfectly Crafted Solution)  
+- ⚡ Fun fact: I love blending **design + code** (UI/UX + Full Stack = Perfectly Crafted Solution ✨)  
 
 ---
 
@@ -30,7 +30,7 @@
 
 ### 🌟 Featured Projects
 - 🎯 **[TrackAdmit](https://trackadmit.vercel.app)** – Full-stack admission tracker (Next.js + Convex + Clerk)  
- 🎯 **[Collabrix](https://collabrix-one.vercel.app)** – Full-stack admission tracker (Next.js + Convex + Clerk)  
+- 🎯 **[Collabrix](https://collabrix-one.vercel.app)** – Full-stack admission tracker (Next.js + Convex + Clerk)  
 - 🧩 **[Guess That Pokémon 2.0](https://shreyasdhekane.github.io/guess-that-pokemon-2.0/)** – Fun interactive game  
 - 🩺 **[SymptoGuide](https://symptoguide.netlify.app)** – AI-based health symptom guide  
 
