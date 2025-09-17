@@ -4,18 +4,18 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I recently built **[Guess That Pokémon](https://shreyasdhekane.github.io/guess-that-pokemon/)** 🎮  
+- 🔭 I recently built **[TrackAdmit](https://trackadmit.vercel.app)** 
+  description: "Track deadlines, manage docs, and never miss an application update. Designed for students. Built by one.",
 - 🌱 Currently learning **Software Engineering & AI** 🤖  
-- 👯 Collaborating on **[SymptoGuide](https://github.com/shreyasdhekane/SymptoGuide)**, an AI-powered health assistant  
 - ⚡ Fun fact: I love blending **design + code** (UI/UX + Full Stack = ✨)  
 
 ---
 
 ### 📬 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/shreyasdhekane" target="_blank"><img src="https://img.shields.io/badge/-Shreyas%20Dhekane-blue?logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:dhekaneshreyas@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://shreyasdhekane.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shreyas-dhekane" target="_blank"><img src="https://img.shields.io/badge/-Shreyas%20Dhekane-blue?logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:dhekaneshreyas@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" /></a>
+  <a href="[https://shreyasdhekane.github.io](https://shreyas-dhekane-portfolio.vercel.app)"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -27,18 +27,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasdhekane&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasdhekane&theme=tokyonight" alt="streak" height="160"/>
-</p>
-
----
 
 ### 🌟 Featured Projects
-- 🎯 **[TrackAdmit](https://github.com/shreyasdhekane/trackadmit)** – Full-stack admission tracker (Next.js + Convex + Clerk)  
-- 🧩 **[Guess That Pokémon](https://shreyasdhekane.github.io/guess-that-pokemon/)** – Fun interactive game  
-- 🩺 **[SymptoGuide](https://github.com/shreyasdhekane/SymptoGuide)** – AI-based health symptom guide  
+- 🎯 **[TrackAdmit](https://trackadmit.vercel.app)** – Full-stack admission tracker (Next.js + Convex + Clerk)  
+ 🎯 **[Collabrix](https://collabrix-one.vercel.app)** – Full-stack admission tracker (Next.js + Convex + Clerk)  
+- 🧩 **[Guess That Pokémon 2.0](https://shreyasdhekane.github.io/guess-that-pokemon-2.0/)** – Fun interactive game  
+- 🩺 **[SymptoGuide](https://symptoguide.netlify.app)** – AI-based health symptom guide  
 
 ---
 
